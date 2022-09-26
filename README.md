@@ -171,10 +171,10 @@
      - [ ] A* pathfinding Algorithm
  - [ ] Greedy Algorithms
  
- > ## **Advanced concepts apart from interviews**
+ > ### **Advanced concepts apart from interviews**
  
- -- [ ] Fast IO
- - - [ ] File handling
+ - [ ] Fast IO
+ - [ ] File handling
  - [ ] Bitwise + DP
  - [ ] Extended Euclidean algorithm
  - [ ] Modulo Multiplicative Inverse

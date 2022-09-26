@@ -3,38 +3,38 @@ Daily practice for data structures
 
  - [ ] Complete Git & GitHub Course
  - [ ] Introduction to Programming
- - [ ] Types of languages
- - [ ] Memory management
+   - [ ] Types of languages
+   - [ ] Memory management
  - [ ] Flow of the program
- - [ ] Flowcharts
- - [ ] Pseudocode
+   - [ ] Flowcharts
+   - [ ] Pseudocode
  - [ ] Introduction to Java
- - [ ] Introduction
- - [ ] How it works
- - [ ] Setup Installation
- - [ ] Input and Output in Java
- - [ ] Conditionals & Loops in Java
- - [ ] if else
- - [ ] loops
- - [ ] Switch statements
- - [ ] Data types
- - [ ] Coding best practices
+   - [ ] Introduction
+   - [ ] How it works
+   - [ ] Setup Installation
+   - [ ] Input and Output in Java
+   - [ ] Conditionals & Loops in Java
+   - [ ] if else
+   - [ ] loops
+   - [ ] Switch statements
+   - [ ] Data types
+   - [ ] Coding best practices
  - [ ] Functions
- - [ ] Introduction
- - [ ] Scoping in Java
- - [ ] Shadowing
- - [ ] Variable Length Arguments
- - [ ] Overloading
+   - [ ] Introduction
+   - [ ] Scoping in Java
+   - [ ] Shadowing
+   - [ ] Variable Length Arguments
+   - [ ] Overloading
  - [ ] Arrays
- - [ ] Introduction
- - [ ] Memory management
- - [ ] Input and Output
- - [ ] ArrayList Introduction
- - [ ] Sorting
- - [ ] Insertion Sort
- - [ ] Selection Sort
- - [ ] Bubble Sort
- - [ ] Cyclic Sort (Merge sort etc after recursion)
+   - [ ] Introduction
+   - [ ] Memory management
+   - [ ] Input and Output
+   - [ ] ArrayList Introduction
+   - [ ] Sorting
+     - [ ] Insertion Sort
+     - [ ] Selection Sort
+     - [ ] Bubble Sort
+     - [ ] Cyclic Sort (Merge sort etc after recursion)
  - [ ] Searching
  - [ ] Linear Search
  - [ ] Binary Search

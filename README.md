@@ -8,7 +8,7 @@
  - [x] Flow of the program
      - [x] Flowcharts
      - [x] Pseudocode
- - [ ] Introduction to Java
+ - [x] Introduction to Java
      - [x] Introduction
      - [x] How it works
      - [x] Setup Installation
@@ -19,35 +19,35 @@
      - [x] Switch statements
      - [x] Data types
      - [x] Coding best practices
- - [ ] Functions
-     - [ ] Introduction
-     - [ ] Scoping in Java
-     - [ ] Shadowing
-     - [ ] Variable Length Arguments
-     - [ ] Overloading
+ - [x] Functions
+     - [x] Introduction
+     - [x] Scoping in Java
+     - [x] Shadowing
+     - [x] Variable Length Arguments
+     - [x] Overloading
  - [ ] Arrays
-     - [ ] Introduction
-     - [ ] Memory management
-     - [ ] Input and Output
-     - [ ] ArrayList Introduction
+     - [x] Introduction
+     - [x] Memory management
+     - [x] Input and Output
+     - [x] ArrayList Introduction
      - [ ] Sorting
          - [ ] Insertion Sort
          - [ ] Selection Sort
          - [ ] Bubble Sort
          - [ ] Cyclic Sort (Merge sort etc after recursion)
      - [ ] Searching
-         - [ ] Linear Search
-         - [ ] Binary Search
+         - [x] Linear Search
+         - [x] Binary Search
          - [ ] Modified Binary Search
          - [ ] Binary Search Interview questions
          - [ ] Binary Search on 2D Arrays
- - [ ] Pattern questions
- - [ ] Strings
-     - [ ] Introduction
-     - [ ] How Strings work
-     - [ ] Comparison of methods
-     - [ ] Operations in Strings
-     - [ ] StringBuilder in java
+ - [x] Pattern questions
+ - [x] Strings
+     - [x] Introduction
+     - [x] How Strings work
+     - [x] Comparison of methods
+     - [x] Operations in Strings
+     - [x] StringBuilder in java
  - [ ] Maths for DSA
      - [ ] Introduction
      - [ ] Complete Bitwise Operators
@@ -88,31 +88,31 @@
      - [ ] Recursion Pattern Problems
      - [ ] Subset Questions
      - [ ] Recursion - Permutations, Dice Throws etc Questions
- - [ ] Object Oriented Programming
-     - [ ] Introduction
-     - [ ] Classes & its instances
-     - [ ] this keyword in Java
-     - [ ] Properties
-         - [ ] Inheritance
-         - [ ] Abstraction
-         - [ ] Polymorphism
-         - [ ] Encapsulation
-     - [ ] Overloading & Overriding
-     - [ ] Static & Non-Static
-     - [ ] Access Control
-     - [ ] Interfaces
-     - [ ] Abstract Classes
-     - [ ] Singleton Class
-     - [ ] final, finalize, finally
-     - [ ] Exception Handling
- - [ ] Linked List
-     - [ ] Introduction
-     - [ ] Singly and Doubly Linked List
-     - [ ] Circular Linked List
-     - [ ] Fast and slow pointer
-     - [ ] Cycle Detection
-     - [ ] Reversing of LinekdList
-     - [ ] Linked List Interview questions
+ - [x] Object Oriented Programming
+     - [x] Introduction
+     - [x] Classes & its instances
+     - [x] this keyword in Java
+     - [x] Properties
+         - [x] Inheritance
+         - [x] Abstraction
+         - [x] Polymorphism
+         - [x] Encapsulation
+     - [x] Overloading & Overriding
+     - [x] Static & Non-Static
+     - [x] Access Control
+     - [x] Interfaces
+     - [x] Abstract Classes
+     - [x] Singleton Class
+     - [x] final, finalize, finally
+     - [x] Exception Handling
+ - [x] Linked List
+     - [x] Introduction
+     - [x] Singly and Doubly Linked List
+     - [x] Circular Linked List
+     - [x] Fast and slow pointer
+     - [x] Cycle Detection
+     - [x] Reversing of LinekdList
+     - [x] Linked List Interview questions
  - [ ] Stacks & Queues
      - [ ] Introduction
      - [ ] Interview problems

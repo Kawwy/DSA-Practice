@@ -158,18 +158,18 @@
      - [ ] Huffman-Encoder
  - [ ] Tries
  - [ ] Graphs
-     - [ ] Introduction
-     - [ ] BFS
-     - [ ] DFS
-     - [ ] Working with graph components
-     - [ ] Minimum Spanning Trees
-     - [ ] Kruskal Algorithm
-     - [ ] Prims Algorithm
-     - [ ] Dijkstra’s shortest path algorithm
-     - [ ] Topological Sort
-     - [ ] Bellman ford
-     - [ ] A* pathfinding Algorithm
- - [ ] Greedy Algorithms
+ - - [ ] Introduction
+ - - [ ] BFS
+ - - [ ] DFS
+ - - [ ] Working with graph components
+ - - [ ] Minimum Spanning Trees
+ - - [ ] Kruskal Algorithm
+ - - [ ] Prims Algorithm
+ - - [ ] Dijkstra’s shortest path algorithm
+ - - [ ] Topological Sort
+ - - [ ] Bellman ford
+ - - [ ] A* pathfinding Algorithm
+ - - [ ] Greedy Algorithms
  
  > ### **Advanced concepts apart from interviews**
  

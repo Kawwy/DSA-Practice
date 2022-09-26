@@ -75,7 +75,7 @@ Daily practice for data structures
  - [ ] Convert recursion to iteration
  - [ ] Tree building of function calls
  - [ ] Tail recursion
- - [ ] - [ ] Sorting:
+ - [ ] - Sorting:
  - [ ] Merge Sort
  - [ ] Quick Sort
  - [ ] Backtracking

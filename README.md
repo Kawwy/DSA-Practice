@@ -1,5 +1,5 @@
 # Progress Tracker
-Daily practice for data structures
+###Daily practice for data structures
 
  - [ ] Complete Git & GitHub Course
  - [ ] Introduction to Programming
@@ -171,7 +171,7 @@ Daily practice for data structures
      - [ ] A* pathfinding Algorithm
  - [ ] Greedy Algorithms
  
- **Advanced concepts apart from interviews**
+ >##**Advanced concepts apart from interviews**
  
  - [ ] Fast IO
  - [ ] File handling
